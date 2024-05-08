@@ -1,5 +1,5 @@
 Sistema Embarcado para Registro e Controle de
-Higienizaçãoo de Mãos em Ambientes de Saúde
+Higienização de Mãos em Ambientes de Saúde
 Rafael Z. Castro ∗ Alexandre S. Roque ∗
 
 Abstract: Hand hygiene (HH) control is crucial to prevent cross-contamination and healthcareassociated
@@ -29,8 +29,12 @@ Objetivos Específicos
 
 a) Estudar as normas e índices aplicados na avaliação da higienização de mãos e como
 estes índices podem ser automatizados.
+
 b) Estudar os tipos de sensores e atuadores que podem ser aplicados no sistema embarcado.
+
 c) Projetar a arquitetura do sistema embarcado para o sistema de higienização e
 monitoramento.
+
 d) Especificar a técnica de controle monitoramento a ser utilizada no trabalho.
+
 e) Desenvolver um protótipo para validação em cenário de teste do ambiente hospitalar.
