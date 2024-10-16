@@ -1,5 +1,4 @@
 <div style="display: flex; align-items: center; justify-content: flex-start;">
-<img src= "/IMG_2745.jpg" width="200" style="margin-right: 20px;"/>
 <h1 style="margin: 0;">🖥️ Sistema Embarcado para Registro e Controle de Higienização de Mãos em Ambientes de Saúde
 </div>
   
@@ -30,3 +29,8 @@ e) **Protótipo e Validação**: Desenvolver um protótipo para validação em c
 ## ✅ Resultados
 Os testes práticos conduzidos em um ambiente hospitalar durante 3 horas mostraram que o sistema é eficiente em capturar e registrar os índices de HM. O sistema utiliza uma **arquitetura de hardware de baixo custo** com conectividade IoT para o envio de dados em tempo real para um **ambiente online de monitoramento**, oferecendo uma ferramenta valiosa para melhorar o controle de IRAS e garantir a conformidade com as normas de saúde pública.
 
+## 📹 Vídeo do sistema em uso
+
+<a href="https://youtu.be/LYa6FNQDAac">
+  <img src="https://img.youtube.com/vi/LYa6FNQDAac/maxresdefault.jpg" alt="Assistir Vídeo" width="300"/>
+</a>
